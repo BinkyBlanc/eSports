@@ -10,10 +10,10 @@ User Persona, User Scenario, User Story
 Online Interview, Survey
 
 # Define
-Problem Statement, Pain Points, User Journey,
+Problem Statement, Pain Points, User Journey, Roadmap
 
 # Ideate
-Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
+Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
 
 # Prototype 
 wireframe, mockup, prototype (re-do), user flow diagram
