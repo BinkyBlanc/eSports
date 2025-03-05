@@ -14,6 +14,8 @@ Build an Esports App Prototype
 
 # User Testing 
 
+# User Feedback
+
 # App Improvement
 
 # Use Case Diagram
