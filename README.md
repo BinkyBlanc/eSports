@@ -1,11 +1,8 @@
 # eSports
 Build an Esports App Prototype
 
-# UX UI Designer
 ---------------------------------------------------------------------------
-
-
-
+# UX UI Designer
 
 
 # Empathize 
@@ -24,9 +21,10 @@ wireframe, mockup, prototype (re-do), user flow diagram
 # Test
 User Testing, User Journey, Pain Points, User Feedback, 
 
+---------------------------------------------------------------------------
 
 # Software Engineering
----------------------------------------------------------------------------
+
 
 # Use Case Diagram
 
