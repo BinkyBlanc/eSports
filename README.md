@@ -10,13 +10,15 @@ Build an Esports App Prototype
 
 # Mockup
 
-# Prototype 
+# Old Prototype 
 
 # User Testing 
 
 # User Feedback
 
 # App Improvement
+
+# New Prototype
 
 # Use Case Diagram
 
