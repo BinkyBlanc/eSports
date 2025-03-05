@@ -1,24 +1,29 @@
 # eSports
 Build an Esports App Prototype
 
+---------------------------------------------------------------------------
 
-# User Interview (Online)
+# UX UI Designer
 
-# User Survey (Online)
+# Empathize 
+User Persona, User Scenario, User Story
+Online Interview, Survey
 
-# Wireframe 
+# Define
+Problem Statement, Pain Points, User Journey,
 
-# Mockup
+# Ideate
+Ideas for improvements, Solutions (Solving Problems), applied UX UI tips 
 
-# Old Prototype 
+# Prototype 
+wireframe, mockup, prototype (re-do), user flow diagram
 
-# User Testing 
+# Test
+User Testing, User Journey, Pain Points, User Feedback, 
 
-# User Feedback
+---------------------------------------------------------------------------
 
-# App Improvement
-
-# New Prototype
+# Software Engineering
 
 # Use Case Diagram
 
