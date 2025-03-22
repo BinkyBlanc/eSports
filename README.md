@@ -29,9 +29,11 @@ wireframe, mockup, prototype (re-do), user flow diagram
 
 # User Testing
 
-๒ User Journey ฿ Pain Points
+# User Journey & Pain Points
 
-๒ User Feedback
+# User Feedback
+
+# Design Improvement
 
 
 ---------------------------------------------------------------------------
