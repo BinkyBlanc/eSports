@@ -34,9 +34,16 @@ User Testing, User Journey, Pain Points, User Feedback,
 
 # Software Engineering
 
-# Requirement Gathering
+# ERD 
+<p>
+  <img src = "https://github.com/user-attachments/assets/8df2f90e-a799-478e-a526-4b2e223d7c96"/>
+</p>
+
 
 # Use Case Diagram
+<p>
+  <img src = "https://github.com/user-attachments/assets/13d34957-e709-4349-942b-c4dd6924a794"/>
+</p>
 
 # Software Architecture 
 
