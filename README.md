@@ -34,11 +34,10 @@ User Testing, User Journey, Pain Points, User Feedback,
 
 # Software Engineering
 
-# ERD 
+# Database Design (ERD) 
 <p>
   <img src = "https://github.com/user-attachments/assets/8df2f90e-a799-478e-a526-4b2e223d7c96"/>
 </p>
-
 
 # Use Case Diagram
 <p>
@@ -46,7 +45,5 @@ User Testing, User Journey, Pain Points, User Feedback,
 </p>
 
 # Software Architecture 
-
-# Database Design
 
 # Architecture Pattern 
