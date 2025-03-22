@@ -17,7 +17,7 @@ Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tip
 
 # Prototype 
 wireframe, mockup, prototype (re-do), user flow diagram
-<p>
+  <p>
   <img src = "https://github.com/user-attachments/assets/a7ef3dd4-4cce-4fa8-8b02-c81609a90864"/>
 </p>
 <p>
